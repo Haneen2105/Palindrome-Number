@@ -1,2 +1,2 @@
 # Palindrome-Number
-check whether the number is a Palindrome Number or not
+Check whether the number is a Palindrome Number or not
