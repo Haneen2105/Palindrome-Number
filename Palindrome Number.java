@@ -2,7 +2,7 @@ public class Pallimdrome {
 
     
     public static void main(String[] args) {
-        int x= 1221;
+        int x= 121;
         boolean flag=true;
         String []str= new String[10];
         str=Integer.toString(x).split("(?!^)");
